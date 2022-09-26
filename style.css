@@ -1,0 +1,29 @@
+.image{
+    width: 300px;
+    height: inherit;
+}
+
+.tab{
+    border: 1px solid black;
+    width: 100px;
+    height: 150px;
+
+}
+.tab2{
+    border: 1px solid black;
+    width: 100px;
+    height: 150px;
+
+}
+.tab3{
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+
+}
+.tab4{
+    border: 2px solid black;
+    width: 150px;
+    height: 150px;
+
+}
